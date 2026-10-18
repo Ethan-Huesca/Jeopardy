@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jeopardy", "Jeopardy.csproj", "{8A0C8178-8C98-4AD0-9BCC-9C60F7B9FA11}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8A0C8178-8C98-4AD0-9BCC-9C60F7B9FA11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A0C8178-8C98-4AD0-9BCC-9C60F7B9FA11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A0C8178-8C98-4AD0-9BCC-9C60F7B9FA11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A0C8178-8C98-4AD0-9BCC-9C60F7B9FA11}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {541B2A81-EE71-4512-9609-4EB9FFFB929F}
+	EndGlobalSection
+EndGlobal
